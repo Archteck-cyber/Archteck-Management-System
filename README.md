@@ -1,1 +1,1 @@
-# archteck-dashboard
+Placeholder content for react_frontend/README.md
